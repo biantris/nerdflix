@@ -1,4 +1,4 @@
-# Nedflix
+# Nerdflix
 
 Em desenvolvimento...
 
@@ -12,4 +12,4 @@ Em desenvolvimento...
  Contruído layout da página Home, onde será listado os vídeos adicionados conforme sua categoria.
 
 🔗 Você pode conferir ele em execução no link:
-  [https://rafaflix.vercel.app/](https://rafaflix-two.vercel.app/)
+  [https://rafaflix.vercel.app/](https://https://nerdflix-tau.vercel.app//)
