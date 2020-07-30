@@ -1,51 +1,51 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Games",
       "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
+      "cor": "#fa0d0d",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Meus jogos favoritos e afins",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Mortal Kombat 11 - O Filme (Dublado)",
+          "url": "https://youtu.be/axkJpV5NZBI"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Mortal Kombat 11 Aftermath - O Filme Dublado",
+          "url": "https://youtu.be/-1QBM0OTFCY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "MORTAL KOMBAT 11 Trailer (2019)",
+          "url": "https://youtu.be/bxFoRCvEjUA"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Top Gear Remix (Snes) - Track 1 Synthwave / Retrowave Remix",
+          "url": "https://youtu.be/tA7a_EEgwrw?list=LL3TVi4t8pAPsrVyYUiHt7YA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Assassins Creed Valhalla",
+          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Assassin's Creed Unity E3 2014 World Premiere Cinematic Trailer [EUROPE]",
+          "url": "https://youtu.be/xzCEdSKMkdU"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Gerudo Valley - The Legend of Zelda: Ocarina Of Time",
+          "url": "https://youtu.be/0hEYvdMoF2g?list=LL3TVi4t8pAPsrVyYUiHt7YA"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Arcade Longplay [370] Street Fighter II: The World Warrior",
+          "url": "https://youtu.be/xI284D4y1q4"
         }        
       ]
     },
     {
-      "titulo": "Back End",
-      "cor": "#00C86F",
+      "titulo": "Música",
+      "cor": "#F2CB05",
       "link_extra": {
         "text": "Cursos de Back End na Alura",
         "url": "https://www.alura.com.br/cursos-online-programacao"
@@ -75,7 +75,7 @@
     },
     {
       "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
+      "cor": "#23A5D9",
       "link_extra": {
         "text": "Cursos de Data Science na Alura",
         "url": "https://www.alura.com.br/formacao-data-science"
@@ -123,7 +123,7 @@
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "#371E59",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
         "url": "https://www.alura.com.br/formacao-jogos-unity"
@@ -153,7 +153,7 @@
     },
     {
       "titulo": "Aprendendo a aprender tecnologia",
-      "cor": "#6b5be2",
+      "cor": "#341fea",
       "link_extra": {
         "text": "Curso sobre aprendizado na Alura",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
