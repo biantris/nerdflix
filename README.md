@@ -1,6 +1,6 @@
 # Nerdflix
 
-Em desenvolvimento...
+💻👩🏽‍💻Em desenvolvimento...
 
 ## Utilizando:
   - [**React**](https://pt-br.reactjs.org/), [**JavaScript**](https://https://www.javascript.com//) e [**NodeJS**](https://nodejs.org/en/).
@@ -12,4 +12,4 @@ Em desenvolvimento...
  Contruído layout da página Home, onde será listado os vídeos adicionados conforme sua categoria.
 
 🔗 Você pode conferir ele em execução no link:
-  [https://nerdflix-tau.vercel.app/](https://https://https://nerdflix.beatrizoliveira250.vercel.app///)
+  [https://nerdflix-tau.vercel.app/](https://nerdflix.beatrizoliveira250.vercel.app/)
