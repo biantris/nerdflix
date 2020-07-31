@@ -47,65 +47,65 @@
       "titulo": "Música",
       "cor": "#F2CB05",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "",
+        "url": "https://youtu.be/Lli99OmkPwM"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Metallica: Fade to Black (Toronto, Canada - November 29, 2016)",
+          "url": "https://youtu.be/A-4K4SX0m70"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "The Game Of Thrones Theme Song | Custom Shop | Fender",
+          "url": "https://youtu.be/6i0a7RDPkM8"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "AC/DC - Thunderstruck (Live At River Plate, December 2009)",
+          "url": "https://youtu.be/n_GFN3a0yj0"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "Scorpions - Acoustic Medley (Live At Hellfest, 20.06.2015)",
+          "url": "https://youtu.be/buTdDo71v3k"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#23A5D9",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "Red Hot Chili Peppers - Californication LIVE Slane",
+          "url": "https://youtu.be/I2dyKtSbsbM"
         }
       ]
     },
     {
       "titulo": "Filmes",
+      "cor": "#23A5D9",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.alura.com.br/formacao-data-science"
+      },
+      "videos": [
+        {
+          "titulo": "Cena dos Portais DUBLADO 4K | Vingadores: Ultimato (2019)",
+          "url": "https://youtu.be/50opun0b51o"
+        },
+        {
+          "titulo": "Assassin's Creed | Trailer Oficial | Legendado HD",
+          "url": "https://youtu.be/jTgzJ79KDsg"
+        },
+        {
+          "titulo": "A Chegada",
+          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+        },
+        {
+          "titulo": "Interestellar",
+          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E" 
+        }
+      ]
+    },
+    {
+      "titulo": "Gameplays",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "BEM-VINDOS AO AGORA OU NUNCA | cyber hunter",
+          "url": "https://youtu.be/aEIUKGk-NLk"
         },
         {
           "titulo": "Gattaca",
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Back End",
       "cor": "#371E59",
       "link_extra": {
         "text": "Formação de Jogos na Alura",
