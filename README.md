@@ -1,68 +1,32 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <a href="">
+    <img width="250" src="https://fontmeme.com/permalink/200728/4ebc644a6a727fd51419096270e91a5e.png" />
+    <img alt="Logo do projeto" width="60px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
+  </a>
+</p>
 
-## Available Scripts
+<h1 align="center"></h1>
 
-In the project directory, you can run:
+<div align="center">
 
-### `npm start`
+Um site com os meus vídeos favoritos do YouTube.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Utilizando:
+  - [**React**](https://pt-br.reactjs.org/), [**JavaScript**](https://https://www.javascript.com//) e [**NodeJS**](https://nodejs.org/en/).
+  - [**Yarn**](https://yarnpkg.com/): gerenciador de pacotes para NodeJS.
+  - [**styled-components**](https://styled-components.com/): estilização de componentes utilizando CSS.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Desenvolvimento:
+- **Dia 1:** <br/>
+ Iniciamos a Aluraflix usando o Create React App, criamos vários componentes e fizemos a publicação da aplicação usando Vercel.
+ - **Dia 2:** <br/>
+ Aprendemos o que é uma SPA, criamos um template com cabeçalho e rodapé e um carrossel para mostrar os filmes.
+ - **Dia 3:** <br/>
+ Entendemos como trabalhar com elementos dinâmicos na tela da nossa aplicação.
+ - **Dia 4:** <br/>
+ Construímos um servidor e adicionamos um banco de dados local.
+ - **Dia 5:** <br/>
+ Adicionamos funcionalidades de cadastrar os vídeos, mostramos as categorias e deixamos a home dinâmica.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+🔗 Você pode conferir ele em execução no link:
+  [https://https://vercel.com/beatrizoliveira250/nerdflix/](https://https://vercel.com/beatrizoliveira250/nerdflix/)
