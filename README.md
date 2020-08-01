@@ -17,7 +17,15 @@ Um site com os meus vídeos favoritos do YouTube.
 
 ## Desenvolvimento:
 - **Dia 1:** <br/>
- Contruído layout da página Home, onde será listado os vídeos adicionados conforme sua categoria.
+ Iniciamos a Aluraflix usando o Create React App, criamos vários componentes e fizemos a publicação da aplicação usando Vercel.
+ - **Dia 2:** <br/>
+ Aprendemos o que é uma SPA, criamos um template com cabeçalho e rodapé e um carrossel para mostrar os filmes.
+ - **Dia 3:** <br/>
+ Entendemos como trabalhar com elementos dinâmicos na tela da nossa aplicação.
+ - **Dia 4:** <br/>
+ Construímos um servidor e adicionamos um banco de dados local.
+ - **Dia 5:** <br/>
+ Adicionamos funcionalidades de cadastrar os vídeos, mostramos as categorias e deixamos a home dinâmica.
 
 🔗 Você pode conferir ele em execução no link:
   [https://nerdflix-tau.vercel.app/](https://nerdflix.beatrizoliveira250.vercel.app/)
