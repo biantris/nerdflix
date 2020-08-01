@@ -2,11 +2,11 @@
   "categorias": [
     {
       "titulo": "Games",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "link": "",
       "cor": "#fa0d0d",
       "link_extra": {
-        "text": "Meus jogos favoritos e afins",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
@@ -78,7 +78,7 @@
       "cor": "#23A5D9",
       "link_extra": {
         "text": "",
-        "url": "https://www.alura.com.br/formacao-data-science"
+        "url": ""
       },
       "videos": [
         {
@@ -122,32 +122,36 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Universo",
       "cor": "#371E59",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "",
+        "url": ""
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Astronomia - Origens",
+          "url": "https://youtu.be/HiNR74zi8qQ?list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Buraco Negro | Nerdologia",
+          "url": "https://youtu.be/ThG5RHBR7dA"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Teoria das cordas | Astronomia #9",
+          "url": "https://youtu.be/sYPkIWeEYtk?list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "BURACOS NEGROS, como eles surgem?",
+          "url": "https://youtu.be/WvQlhMjGo4M"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Quarta dimensão explicada por Carl Sagan",
+          "url": "https://youtu.be/WMZNLy0hGEI"
+        },
+        {
+          "titulo": "6 NEBULOSAS INCRÍVEIS QUE VOCÊ PRECISA CONHECER",
+          "url": "https://youtu.be/WDrFwhT-Ps4"
         }
       ]
     },
@@ -155,7 +159,7 @@
       "titulo": "Aprendendo a aprender tecnologia",
       "cor": "#341fea",
       "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
+        "text": "",
         "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
       },
       "videos": [
