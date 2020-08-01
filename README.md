@@ -29,4 +29,4 @@ Um site com os meus vídeos favoritos do YouTube.
  Adicionamos funcionalidades de cadastrar os vídeos, mostramos as categorias e deixamos a home dinâmica.
 
 🔗 Você pode conferir ele em execução no link:
-  [https://nerdflix-tau.vercel.app/](https://nerdflix.beatrizoliveira250.vercel.app/)
+  [https://https://vercel.com/beatrizoliveira250/nerdflix/](https://https://vercel.com/beatrizoliveira250/nerdflix/)
