@@ -1,5 +1,5 @@
 {
-  "name": "nerdflix",
+  "name": "aluraflix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -10,14 +10,18 @@
     "react-dom": "^16.13.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
-    "react-slick": "^0.27.1",
-    "styled-components": "^5.1.1"
+    "react-slick": "^0.26.1",
+    "styled-components": "^5.1.1",
+    "json-server": "^0.16.1"
   },
   "scripts": {
-    "start": "react-scripts start",
+    "start": "node ./server.js",
+    "dev": "concurrently \"react-scripts start\" \"node ./server.js\"",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "server:static": "json-server --watch ./src/data/db.json --port 8080",
+    "server": "node ./server.js"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -35,8 +39,6 @@
     ]
   },
   "devDependencies": {
-    "eslint": "^7.6.0",
-    "eslint-config-airbnb-base": "^14.2.0",
-    "eslint-plugin-import": "^2.22.0"
+    "concurrently": "^5.2.0"
   }
 }
