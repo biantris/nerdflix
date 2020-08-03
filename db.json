@@ -205,41 +205,29 @@
       {
         "id": 26,
         "categoriaId": 6,
-        "titulo": "Astronomia - Origens",
-        "url": "https://youtu.be/HiNR74zi8qQ?list=PLUBR4s0w2cG1kyI2MDBJV0J3B5HuJoB7g"
-      },
-      {
-        "id": 27,
-        "categoriaId": 6,
-        "titulo": "Buraco Negro | Nerdologia",
-        "url": "https://youtu.be/ThG5RHBR7dA"
-      },
-      {
-        "id": 28,
-        "categoriaId": 6,
         "titulo": "Como estudar melhor?",
         "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
       },
       {
-        "id": 29,
+        "id": 27,
         "categoriaId": 6,
         "titulo": "Faculdade",
         "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
       },
       {
-        "id": 30,
+        "id": 28,
         "categoriaId": 6,
         "titulo": "Frameworks",
         "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
       },
       {
-        "id": 31,
+        "id": 29,
         "categoriaId": 6,
         "titulo": "A mágica do Aprendizado",
         "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
       },
       {
-        "id": 32,
+        "id": 30,
         "categoriaId": 6,
         "titulo": "Como aprender a programar?",
         "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
