@@ -16,7 +16,7 @@ ReactDOM.render(
       <Route path="/cadastro/categoria" component={CadastroCategoria} exact />
       <Route component={() => (
         <PageDefault>
-          <div class="tenor-gif-embed" data-postid="10902527" data-share-method="host" data-width="100%" data-aspect-ratio="0.8508771929824561"><a href="https://tenor.com/view/no-results-404-gif-10902527">No Results GIF</a> from <a href="https://tenor.com/search/no-gifs">No GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+           <gif src="https://tenor.com/view/no-results-404-gif-10902527" alt="Gif"></gif>
           <div>
             <h1>Página 404</h1>
             <span>
