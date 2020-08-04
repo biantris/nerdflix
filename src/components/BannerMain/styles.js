@@ -33,7 +33,7 @@ ContentAreaContainer.Category = styled.h1`
   display: flex;
   align-items: center;
   text-align: center;
-  display: inline-block; 
+  display: inline-block;
   padding: 25px;
   line-height: 1;
   border-radius: 4px;
@@ -69,7 +69,7 @@ export const BannerMainContainer = styled.section`
   height: 80vh;
   position: relative;
   color: #fff;
-  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`}; 
+  background-image: ${({ backgroundImage }) => `url(${backgroundImage})`};
   background-size: cover;
   background-position: center;
   @media (max-width: 800px) {

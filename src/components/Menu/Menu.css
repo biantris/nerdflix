@@ -6,25 +6,25 @@
       max-width: 105px;
     }
   }
-  
+
   .Menu {
     width: 100%;
     height: 94px;
     z-index: 100;
-  
+
     display: flex;
     justify-content: space-between;
     align-items: center;
-  
+
     position: fixed;
     top: 0;
     left: 0;
     right: 0;
-    padding-left: 5%;
-    padding-right: 5%;
-  
+    padding-left: 0%;
+    padding-right: 0%;
+
     background: var(--black);
-    border-bottom: 2px solid var(--primary);
+    border-bottom: 2px solid var(--black);
   }
   body {
     --bodyPaddingTop: 94px;
@@ -40,7 +40,7 @@
       padding-top: var(--bodyPaddingTop);
     }
   }
-  
+
   .ButtonLink {
     color: var(--white);
     border: 1px solid var(--white);
@@ -60,7 +60,7 @@
   .ButtonLink:focus {
     opacity: .5;
   }
-  
+
   @media (max-width: 800px) {
     a.ButtonLink {
       position: fixed;
