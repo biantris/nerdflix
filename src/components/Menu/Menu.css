@@ -20,8 +20,8 @@
     top: 0;
     left: 0;
     right: 0;
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 0px;
+    padding-right: 0px;
 
     background: var(--black);
     border-bottom: 2px solid var(--primary);
