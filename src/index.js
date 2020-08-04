@@ -16,7 +16,7 @@ ReactDOM.render(
       <Route path="/cadastro/categoria" component={CadastroCategoria} exact />
       <Route component={() => (
         <PageDefault>
-           <gif src="https://tenor.com/view/no-results-404-gif-10902527" alt="Gif"></gif>
+           <gif src="tenor.gif" alt="tenor.gif"></gif>
           <div>
             <h1>Página 404</h1>
             <span>
