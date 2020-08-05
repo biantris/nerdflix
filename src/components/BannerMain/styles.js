@@ -18,7 +18,7 @@ export const ContentAreaContainer = styled.section`
 ContentAreaContainer.Item = styled.div`
   width: 50%;
   display: inline-block;
-  margin-bottom: 0px;
+  margin-bottom: 50px;
   @media (max-width: 800px) {
     width: 100%;
   }
