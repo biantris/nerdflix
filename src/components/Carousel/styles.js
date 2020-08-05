@@ -4,7 +4,7 @@ export const Title = styled.h3`
   font-style: normal;
   font-weight: normal;
   font-size: 35px;
-  line-height: 1;
+  line-height: 2px;
   margin-bottom: 16px;
   display: inline-block;
   padding: 20px;
@@ -34,7 +34,7 @@ export const ExtraLink = styled.a`
 `;
 
 export const VideoCardList = styled.ul`
-  margin: 0;
+  margin: 0 -50px;
   padding-left: 0;
   padding-bottom: 32px;
   list-style: none;
@@ -49,6 +49,7 @@ export const VideoCardList = styled.ul`
 
 export const VideoCardGroupContainer = styled.section`
   color: white;
+  margin: 0 -50px;
   min-height: 197px;
   margin-left: 0;
   margin-bottom: 0px;
