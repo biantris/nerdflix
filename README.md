@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### Um site similar ao Netflix, mas com os meus vídeos favoritos do YouTube🤓.
+### Um site similar ao Netflix, mas com os meus vídeos favoritos do YouTube🤓
 
 <p align="center">
   <a href="">
@@ -19,7 +19,7 @@
   </a>
 </p>
 
-## 👩🏽‍💻Utilizando:
+## 👩🏽‍💻 Utilizando:
   - [**React**](https://pt-br.reactjs.org/), [**JavaScript**](https://https://www.javascript.com//) e [**NodeJS**](https://nodejs.org/en/).
   - [**React Slick**](https://react-slick.neostack.com/).
   - [**React Router Dom**](https://reactrouter.com/web/guides/quick-start/).
@@ -28,7 +28,7 @@
   - [**Yarn**](https://yarnpkg.com/): gerenciador de pacotes para NodeJS.
   - [**Styled-Components**](https://styled-components.com/): estilização de componentes utilizando CSS. 
   
-## ⚙️Desenvolvimento:
+## ⚙️ Desenvolvimento:
 - **Dia 1:** <br/>
  Iniciamos a Aluraflix usando o Create React App, criamos vários componentes e fizemos a publicação da aplicação usando Vercel.
  - **Dia 2:** <br/>
@@ -41,7 +41,7 @@
  Adicionamos funcionalidades de cadastrar os vídeos, mostramos as categorias e deixamos a home dinâmica.
  
  
-## ℹ️Como rodar o projeto?
+## ℹ️ Como rodar o projeto?
 
 Após baixar o projeto, acesse ele via seu terminal rode os comandos:
 
@@ -50,7 +50,7 @@ npm install
 npm start
 ```
 
-## ✅License/Licença do Projeto
+## ✅ License/Licença do Projeto
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
 
 🔗 Você pode conferir ele em execução no link:
