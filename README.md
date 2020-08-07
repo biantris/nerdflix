@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <a href="">
     <img width="250" src="https://fontmeme.com/permalink/200728/4ebc644a6a727fd51419096270e91a5e.png" />
@@ -9,13 +11,23 @@
 
 <div align="center">
 
-Um site com os meus vídeos favoritos do YouTube.
+### Um site com a mesma ideia ao Netflix, mas com os meus vídeos favoritos do YouTube.
+
+<p align="center">
+  <a href="">
+    <img all="500" src="https://media.giphy.com/media/S8UJpM4a8oOEmzVnJQ/giphy.gif" />
+  </a>
+</p>
 
 ## Utilizando:
   - [**React**](https://pt-br.reactjs.org/), [**JavaScript**](https://https://www.javascript.com//) e [**NodeJS**](https://nodejs.org/en/).
+  - [**React Slick**](https://react-slick.neostack.com/).
+  - [**React Router Dom**](https://reactrouter.com/web/guides/quick-start/).
+  - [**Prop Types**](https://pt-br.reactjs.org/docs/typechecking-with-proptypes.html/).
+  - [**JSON Server**](https://github.com/typicode/json-server/).
   - [**Yarn**](https://yarnpkg.com/): gerenciador de pacotes para NodeJS.
-  - [**styled-components**](https://styled-components.com/): estilização de componentes utilizando CSS.
-
+  - [**Styled-Components**](https://styled-components.com/): estilização de componentes utilizando CSS. 
+  
 ## Desenvolvimento:
 - **Dia 1:** <br/>
  Iniciamos a Aluraflix usando o Create React App, criamos vários componentes e fizemos a publicação da aplicação usando Vercel.
@@ -27,6 +39,19 @@ Um site com os meus vídeos favoritos do YouTube.
  Construímos um servidor e adicionamos um banco de dados local.
  - **Dia 5:** <br/>
  Adicionamos funcionalidades de cadastrar os vídeos, mostramos as categorias e deixamos a home dinâmica.
+ 
+ 
+## Como rodar o projeto?
+
+Após baixar o projeto, acesse ele via seu terminal rode os comandos:
+
+```sh
+npm install
+npm start
+```
+
+## License/Licença do Projeto
+[MIT License](./LICENSE) © [Alura](http://alura.com.br/)
 
 🔗 Você pode conferir ele em execução no link:
   [https://nerdflix-tau.vercel.app/](https://nerdflix-tau.vercel.app/)
