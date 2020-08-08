@@ -21,14 +21,23 @@
 
 ## 👩🏽‍💻 Utilizando:
    [**JavaScript**](https://https://www.javascript.com//).
+  
    [**NodeJS**](https://nodejs.org/en/).
+   
    [**React**](https://pt-br.reactjs.org/). 
+   
    [**React Slick**](https://react-slick.neostack.com/).
+   
    [**React Router Dom**](https://reactrouter.com/web/guides/quick-start/).
+   
    [**Prop Types**](https://pt-br.reactjs.org/docs/typechecking-with-proptypes.html/).
+   
    [**JSON Server**](https://github.com/typicode/json-server/).
+   
    [**Yarn**](https://yarnpkg.com/).
+   
    [**Styled-Components**](https://styled-components.com/). 
+   
    [**VS Code**](https://code.visualstudio.com/) with [**EditorConfig**](https://editorconfig.org/) and [**ESLint**](https://eslint.org/)
   
 ## ⚙️ Desenvolvimento:
