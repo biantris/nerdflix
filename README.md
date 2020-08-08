@@ -34,7 +34,7 @@
    
    [**JSON Server**](https://github.com/typicode/json-server/)
    
-   [**Yarn**](https://yarnpkg.com/)
+   [**Npm**](https://www.npmjs.com/)
    
    [**Styled-Components**](https://styled-components.com/)
    
