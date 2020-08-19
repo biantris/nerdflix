@@ -17,7 +17,6 @@ ReactDOM.render(
       <Route component={() => (
         <PageDefault>
           <div>
-          <img src="/assets/img/tenor.gif" alt="gif">
             <h1>Página 404</h1>
             <span>
               Acho que você se perdeu no caminho.
