@@ -40,7 +40,7 @@
    
    [**VS Code**](https://code.visualstudio.com/) with [**EditorConfig**](https://editorconfig.org/) and [**ESLint**](https://eslint.org/)
    
-   Deploy with[**Vercel**](https://vercel.com/) and [**Heroku**](https://www.heroku.com/)
+   Deploy with [**Vercel**](https://vercel.com/) and [**Heroku**](https://www.heroku.com/)
   
 ## ⚙️ Desenvolvimento:
  **Dia 1:** <br/> Iniciamos a Aluraflix usando o Create React App, criamos vários componentes e fizemos a publicação da aplicação usando Vercel.
