@@ -1,7 +1,7 @@
 
 
 <p align="center">
-  <a href="https://nerdflix-tau.vercel.app/">
+  <a href="https://nerdflix-swart.vercel.app/">
     <img width="250" src="https://fontmeme.com/permalink/200728/4ebc644a6a727fd51419096270e91a5e.png" />
     <img alt="Logo do projeto" width="60px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
   </a>
@@ -14,7 +14,7 @@
 ### Um site similar ao Netflix, mas com os meus vídeos favoritos do YouTube🤓
 
 <p align="center">
-  <a href="">
+  <a href="https://nerdflix-swart.vercel.app/">
     <img all="500" src="https://media.giphy.com/media/S8UJpM4a8oOEmzVnJQ/giphy.gif" />
   </a>
 </p>
@@ -65,4 +65,4 @@ npm start
 [MIT License](./LICENSE) © [Alura](http://alura.com.br/)
 
 🔗 Você pode conferir ele em execução no link:
-  [https://nerdflix-tau.vercel.app/](https://nerdflix-tau.vercel.app/)
+  [https://nerdflix-swart.vercel.app/](https://nerdflix-swart.vercel.app/)
