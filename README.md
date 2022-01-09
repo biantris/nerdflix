@@ -17,27 +17,29 @@ Based on Netflix, with my favorite YouTube videos 🤓
     <img all="500" src="https://media.giphy.com/media/S8UJpM4a8oOEmzVnJQ/giphy.gif" />
   </a>
 </p>
+  
+</div>
 
 ## 👩🏽‍💻 Stack:
-   [**JavaScript**](https://https://www.javascript.com//)
+   - [**JavaScript**](https://https://www.javascript.com//)
   
-   [**NodeJS**](https://nodejs.org/en/)
+   - [**NodeJS**](https://nodejs.org/en/)
    
-   [**React**](https://pt-br.reactjs.org/)
+   - [**React**](https://pt-br.reactjs.org/)
    
-   [**React Slick**](https://react-slick.neostack.com/)
+   - [**React Slick**](https://react-slick.neostack.com/)
    
-   [**React Router Dom**](https://reactrouter.com/web/guides/quick-start/)
+   - [**React Router Dom**](https://reactrouter.com/web/guides/quick-start/)
    
-   [**Prop Types**](https://pt-br.reactjs.org/docs/typechecking-with-proptypes.html/)
+   - [**Prop Types**](https://pt-br.reactjs.org/docs/typechecking-with-proptypes.html/)
    
-   [**JSON Server**](https://github.com/typicode/json-server/)
+   - [**JSON Server**](https://github.com/typicode/json-server/)
    
-   [**Npm**](https://www.npmjs.com/)
+   - [**Npm**](https://www.npmjs.com/)
    
-   [**Styled-Components**](https://styled-components.com/)
+   - [**Styled-Components**](https://styled-components.com/)
    
-   [**VS Code**](https://code.visualstudio.com/) with [**EditorConfig**](https://editorconfig.org/) and [**ESLint**](https://eslint.org/)
+   - [**VS Code**](https://code.visualstudio.com/) with [**EditorConfig**](https://editorconfig.org/) and [**ESLint**](https://eslint.org/)
    
    Deploy with [**Vercel**](https://vercel.com/) and [**Heroku**](https://www.heroku.com/)
  
