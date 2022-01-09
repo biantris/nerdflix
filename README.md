@@ -1,5 +1,3 @@
-
-
 <p align="center">
   <a href="https://nerdflix-swart.vercel.app/">
     <img width="250" src="https://fontmeme.com/permalink/200728/4ebc644a6a727fd51419096270e91a5e.png" />
@@ -11,15 +9,16 @@
 
 <div align="center">
 
-### Um site similar ao Netflix, mas com os meus vídeos favoritos do YouTube🤓
-
+### About Project
+Based on Netflix, with my favorite YouTube videos 🤓
+  
 <p align="center">
   <a href="https://nerdflix-swart.vercel.app/">
     <img all="500" src="https://media.giphy.com/media/S8UJpM4a8oOEmzVnJQ/giphy.gif" />
   </a>
 </p>
 
-## 👩🏽‍💻 Utilizando:
+## 👩🏽‍💻 Stack:
    [**JavaScript**](https://https://www.javascript.com//)
   
    [**NodeJS**](https://nodejs.org/en/)
@@ -41,30 +40,14 @@
    [**VS Code**](https://code.visualstudio.com/) with [**EditorConfig**](https://editorconfig.org/) and [**ESLint**](https://eslint.org/)
    
    Deploy with [**Vercel**](https://vercel.com/) and [**Heroku**](https://www.heroku.com/)
+ 
+## ℹ️ How to run the project
+
+After downloading the project, access it via your terminal run the commands:
   
-## ⚙️ Desenvolvimento:
- **Dia 1:** <br/> Iniciamos a Aluraflix usando o Create React App, criamos vários componentes e fizemos a publicação da aplicação usando Vercel.
- 
- **Dia 2:** <br/> Aprendemos o que é uma SPA, criamos um template com cabeçalho e rodapé e um carrossel para mostrar os filmes.
- 
- **Dia 3:** <br/> Entendemos como trabalhar com elementos dinâmicos na tela da nossa aplicação.
- 
- **Dia 4:** <br/> Construímos um servidor e adicionamos um banco de dados local.
- 
- **Dia 5:** <br/> Adicionamos funcionalidades de cadastrar os vídeos, mostramos as categorias e deixamos a home dinâmica.
- 
- 
-## ℹ️ Como rodar o projeto?
-
-Após baixar o projeto, acesse ele via seu terminal rode os comandos:
-
 ```sh
 npm install
 npm start
 ```
-
-## ✅ License/Licença do Projeto
-[MIT License](./LICENSE) © [Alura](http://alura.com.br/)
-
-🔗 Você pode conferir ele em execução no link:
-  [https://nerdflix-swart.vercel.app/](https://nerdflix-swart.vercel.app/)
+### Demo:
+🔗 link [https://nerdflix-swart.vercel.app/](https://nerdflix-swart.vercel.app/)
