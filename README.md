@@ -42,7 +42,7 @@ After downloading the project, access it via your terminal run the commands:
 npm install
 npm start
 ```
-### Demo:
+## Demo:
 🔗 link [https://nerdflix-swart.vercel.app/](https://nerdflix-swart.vercel.app/)
 
 ## Contributions
