@@ -34,7 +34,7 @@ Based on Netflix, with my favorite YouTube videos 🤓
    
    Deploy with [**Vercel**](https://vercel.com/) and [**Heroku**](https://www.heroku.com/)
  
-## ℹ️ How to run the project
+## How to run the project
 
 After downloading the project, access it via your terminal run the commands:
   
