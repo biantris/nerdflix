@@ -30,7 +30,7 @@ Based on Netflix, with my favorite YouTube videos 🤓
    - [Styled-Components](https://styled-components.com/)
    - [VS Code](https://code.visualstudio.com/) with [EditorConfig](https://editorconfig.org/) and [ESLint](https://eslint.org/)
    
-   Deploy with [**Vercel**](https://vercel.com/) and [**Heroku**](https://www.heroku.com/)
+   Deploy with [Vercel](https://vercel.com/) and [Heroku](https://www.heroku.com/)
  
 ### How to run the project
 
