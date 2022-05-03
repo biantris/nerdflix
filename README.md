@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://nerdflix-swart.vercel.app/">
     <img width="250" src="https://fontmeme.com/permalink/200728/4ebc644a6a727fd51419096270e91a5e.png" />
-    <img alt="Logo do projeto" width="60px" src="https://www.alura.com.br/assets/img/imersoes/react/imersao-react-logo.1594044142.svg" />
   </a>
 </p>
 
