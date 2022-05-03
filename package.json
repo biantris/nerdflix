@@ -1,27 +1,26 @@
 {
-  "name": "aluraflix",
+  "name": "nerdflix",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "json-server": "^0.16.1",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.4.1",
     "react-slick": "^0.26.1",
-    "styled-components": "^5.1.1",
-    "json-server": "^0.16.1"
+    "styled-components": "^5.1.1"
   },
   "scripts": {
-    "start": "node ./server.js",
-    "dev": "concurrently \"react-scripts start\" \"node ./server.js\"",
+    "start": "concurrently \"react-scripts start\" \"node ./server.js\"",
+    "server": "node ./server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server:static": "json-server --watch ./src/data/db.json --port 8080",
-    "server": "node ./server.js"
+    "server:static": "json-server --watch ./src/data/db.json --port 8080"
   },
   "eslintConfig": {
     "extends": "react-app"
