@@ -15,13 +15,12 @@
     "styled-components": "^5.1.1"
   },
   "scripts": {
-    "start": "node ./server.js",
-    "dev": "concurrently \"react-scripts start\" \"node ./server.js\"",
+    "start": "concurrently \"react-scripts start\" \"node ./server.js\"",
+    "server": "node ./server.js",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "server:static": "json-server --watch ./src/data/db.json --port 8080",
-    "server": "node ./server.js"
+    "server:static": "json-server --watch ./src/data/db.json --port 8080"
   },
   "eslintConfig": {
     "extends": "react-app"
