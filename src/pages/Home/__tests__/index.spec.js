@@ -1,12 +1,11 @@
-import React from "react";
-import { render } from "react-dom";
-import { act } from "react-dom/test-utils";
+import { render } from '@testing-library/react';
 
 import Home from "./../index";
 
-it('should render home page', () => {
-  act(() => {
-    render(<Home />, container);
-  });
-  expect(container.textContent).toBe("Games");
-});
+it('should render Most Popular', async () => {
+  const { getByText, debug } = render(<Home />)
+
+  //debug()
+
+  expect(getByText('Password changed successfully')).toBeTruthy();
+})
